@@ -1,0 +1,20 @@
+Catalog read: book 
+Exception: missing field
+"The Neolithic Revolution in the Near East: Transforming the Human Landscape" "2011" "Social Science, Anthropology, Cultural, General, Archaeology"
+Exception: duplicate entry
+"The Neolithic Revolution in the Near East: Transforming the Human Landscape" "" "" "Archaeology"
+Exception: missing field
+"The Neolithic Revolution in the Near East: Transforming the Human Landscape"
+Exception: duplicate entry
+"Hilbert Spaces With Applications" "Lokenath Debnathl, Piotr Mikusinski" "" "Set Theory"
+4 unique entries
+search "Web" in "tags"
+"Learning Flask Framework" "Matt Copperwaite, Charles Leifer" "2015" "Computers, Programming Languages, Python, Internet, Application Development, Web, Web Programming"search "Web" in "tags"
+"Learning Flask" "" "2015" "Computers, Programming Languages, Python, Internet, Application Development, Web, Web Programming"search "East" in "title"
+"The Neolithic Revolution in the Near East: Transforming the Human Landscape" "Alan H. Simmons" "2011" "Social Science, Anthropology, Cultural, General, Archaeology"sort "year"
+"Hilbert Spaces With Applications" "Lokenath Debnathl, Piotr Mikusinski" "2005" "Mathematics,  Set Theory"
+"The Neolithic Revolution in the Near East: Transforming the Human Landscape" "Alan H. Simmons" "2011" "Social Science, Anthropology, Cultural, General, Archaeology"
+"Learning Flask Framework" "Matt Copperwaite, Charles Leifer" "2015" "Computers, Programming Languages, Python, Internet, Application Development, Web, Web Programming"
+"Learning Flask" "" "2015" "Computers, Programming Languages, Python, Internet, Application Development, Web, Web Programming"
+Exception: command is wrong
+search "Applications" in "tittle"
